@@ -12,6 +12,7 @@ The architecture (still in design phase) will support either:
 - **Client-hosted matches**;
 - **Dedicated server hosting** (for long-term scalability).
 
+[differenze tra le opzioni](Architecture_Comparison.md)
 ---
 
 ## 🧩 Core Components
