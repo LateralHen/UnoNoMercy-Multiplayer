@@ -12,3 +12,14 @@ The goal is to create a simple, accessible, and chaotic multiplayer experience w
 * 🤝 Entirely open-source and developed collaboratively among friends
 
 Whether you’re a strategist or an agent of chaos, UnoNoMercy has one rule: *don’t hold back.*
+
+---
+
+## 📚 Project Documentation
+
+This project includes two complementary documents:
+
+| File                            | Description                                             |
+| ------------------------------- | ------------------------------------------------------- |
+| [Rules.md](Doc/Rules.md)           | Game rules and special cards explained for all players  |
+| [Developer Guide](Doc/DevGuide.md) | Technical details and internal mechanics for developers |
