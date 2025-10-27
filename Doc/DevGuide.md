@@ -210,7 +210,7 @@ Se un giocatore perde i propri dati, il sistema ricostruisce le sue statistiche 
 - Usando la stessa passphrase su un altro dispositivo si ripristina la stessa identità e si mantengono valide tutte le firme precedenti.
 - Non servono account, login o file di esportazione — la passphrase *è* l’identità.
 
--*Effetti:**
+**Effetti:**
 
 - Portabilità → puoi cambiare dispositivo mantenendo lo stesso ID.
 - Sicurezza → nessuno può impersonarti senza la tua frase.
@@ -333,7 +333,3 @@ Se un database contiene partite che gli altri non riconoscono → quelle vengono
 ---
 
 (Questa guida verrà ampliata con l’avanzare dello sviluppo.)
-
----
-
-Vuoi che ti preparo anche il file `.md` pronto da scaricare (così sostituisci direttamente quello nel repo)?
