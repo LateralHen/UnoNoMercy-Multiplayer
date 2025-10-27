@@ -1,6 +1,7 @@
 # ⚙️ UnoNoMercy – Guida per gli Sviluppatori
 
 Questo documento spiega la logica interna e la progettazione tecnica di **UnoNoMercy-Multiplayer**.
+Il backend verrà sviluppato in go.
 
 ---
 

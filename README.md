@@ -2,7 +2,7 @@
 
 -*UnoNoMercy** è un progetto collaborativo che reinterpreta il classico gioco UNO con un tocco spietato.
 
-Progettato per giocare **online tra amici, ovunque**, elimina ogni barriera — niente account, niente piattaforme esterne, nessuna complicazione — solo partite rapide e divertimento senza pietà.
+Progettato per giocare **online tra amici, ovunque**, elimina ogni barriera — niente piattaforme esterne, nessuna complicazione — solo partite rapide e divertimento senza pietà.
 
 L’obiettivo è creare un’esperienza multigiocatore semplice, accessibile e caotica, dove:
 
